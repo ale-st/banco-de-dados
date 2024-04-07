@@ -1,3 +1,10 @@
+'''
+ALUNOS:
+JOAO PAULO FRAGA SANTOS
+CARLOS ALEXANDRE DA SILVA SANTOS
+BRUNO EDUARDO DO NASCIMENTO GOMES
+'''
+
 import json
 import psycopg2
 from flask import Flask, jsonify, request
