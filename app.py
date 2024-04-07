@@ -2,7 +2,7 @@ import json
 from flask import Flask, jsonify, request
 a = open("C://Users//jpfs0//OneDrive//Área de Trabalho//mochila//testeBanco.txt", "w")
 app = Flask(__name__)
-
+#comentario
 usuario = [
     {
         'CPF': '123.456.789.12',
